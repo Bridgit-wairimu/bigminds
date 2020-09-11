@@ -1,3 +1,39 @@
-p{
-    color: green;
+body{
+    background-color: rosybrown; 
+}
+.nav {
+    background-color: rgb(6, 17, 6);
+    margin: 5px;
+    padding: 10px;
+}
+li{
+    list-style: none;
+}
+ul{
+    display: flex;
+    justify-content: space-around;
+}
+a{
+    text-decoration: none;
+    color: white;-
+}
+a:hover{
+    background-color: rosybrown;
+    color: white;
+}
+.footer {
+    background-color: black;
+    margin: 5px;
+    padding: 10px;
+}
+li{
+    list-style: none;
+}
+ul{
+    display: flex;
+    justify-content: space-around;
+}
+a:hover{
+    background-color: rosybrown;
+    color: white;
 }
