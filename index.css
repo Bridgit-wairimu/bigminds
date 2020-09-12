@@ -1,8 +1,8 @@
 body{
-    background-color: white; 
+    background-color: rgb(255, 231, 235); 
 }
 .nav {
-    background-color: rgb(98, 204, 240);
+    background-color: rgb(159,229,252);
     margin: 5px;
     padding: 10px;
 }
@@ -22,7 +22,7 @@ a:hover{
     color: white;
 }
 .footer {
-    background-color: rgb(98, 204, 240);
+    background-color: rgb(159, 229, 252);
     margin: 5px;
     padding: 10px;
 }
