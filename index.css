@@ -1,3 +1,42 @@
 p{
     color: green;
 }
+body{
+    background-color: rgb(255, 231, 235); 
+}
+.nav {
+    background-color: rgb(159,229,252);
+    margin: 5px;
+    padding: 10px;
+}
+li{
+    list-style: none;
+}
+ul{
+    display: flex;
+    justify-content: space-around;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+a:hover{
+    background-color: black;
+    color: white;
+}
+.footer {
+    background-color: rgb(159, 229, 252);
+    margin: 5px;
+    padding: 10px;
+}
+li{
+    list-style: none;
+}
+ul{
+    display: flex;
+    justify-content: space-evenly;
+}
+a:hover{
+    background-color:black;
+    color: white;
+}
